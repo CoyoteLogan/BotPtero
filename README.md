@@ -1,5 +1,3 @@
-# No longer maintaned. Up to date bot to buy https://pterodactylmarket.com/resource/366
-
 # Pterodactyl-Discord-Bot
 
 [![GitHub](https://img.shields.io/github/license/linux123123/Pterodactyl-Discord-Bot)](https://github.com/Linux123123/Pterodactyl-Discord-Bot/blob/main/LICENSE)
